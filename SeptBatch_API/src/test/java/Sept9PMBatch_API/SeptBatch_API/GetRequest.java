@@ -17,7 +17,7 @@ public class GetRequest
 		System.out.println("Status code is:"+ res.statusCode());
 		System.out.println("Response data is");
 		System.out.println(res.asString());
-		
+		System.out.println("PUSH&COMMIT");
 	}
 	
 }
