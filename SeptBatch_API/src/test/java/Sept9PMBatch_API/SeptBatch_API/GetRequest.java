@@ -18,6 +18,7 @@ public class GetRequest
 		System.out.println("Response data is");
 		System.out.println(res.asString());
 		System.out.println("PUSH&COMMIT");
+		System.out.println("PUSH&COMMIT@@");
 	}
 	
 }
